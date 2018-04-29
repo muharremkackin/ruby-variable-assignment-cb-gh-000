@@ -13,4 +13,4 @@ puts irklar
 
 irklar.push("Balrock")
 
-push irklar
+puts irklar
