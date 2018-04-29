@@ -8,3 +8,5 @@ irklar = ["Orklar", "Uruk-Hailar", "Goblinler", "Uruklular", "Entler", "İnsanla
 puts irklar
 
 irklar << "Kartallar"
+
+puts irklar
