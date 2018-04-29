@@ -10,3 +10,5 @@ puts irklar
 irklar << "Kartallar"
 
 puts irklar
+
+irklar.push("Balrock")
