@@ -14,3 +14,7 @@ puts irklar
 irklar.push("Balrock\n")
 
 puts irklar
+
+irklar.unshift("Büyücüler")
+
+puts irklar
