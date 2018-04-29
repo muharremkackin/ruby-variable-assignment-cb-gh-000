@@ -6,3 +6,5 @@ greeting = "Hello World"
 irklar = ["Orklar", "Uruk-Hailar", "Goblinler", "Uruklular", "Entler", "İnsanlar", "Hobitler", "Cüceler", "Maialar"]
 
 puts irklar
+
+irklar << "Kartallar"
