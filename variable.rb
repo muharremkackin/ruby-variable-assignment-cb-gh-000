@@ -2,3 +2,5 @@
  # give it the value of the string "Hello World"
 
 greeting = "Hello World"
+
+irklar = ["Orklar", "Uruk-Hailar", "Goblinler", "Uruklular", "Entler", "İnsanlar", "Hobitler", "Cüceler", "Maialar"]
