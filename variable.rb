@@ -12,3 +12,5 @@ irklar << "Kartallar"
 puts irklar
 
 irklar.push("Balrock")
+
+push irklar
